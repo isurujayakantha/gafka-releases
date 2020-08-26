@@ -1,4 +1,5 @@
-## Download Gafka latest beta release <a href="https://github.com/isurujayakantha/gafka-releases/releases/download/v1.0.0-BETA/Gafka-v1.0.0-BETA-64-Bit-Release.zip">here</a>
+### Download Gafka latest beta release 
+<a href="https://github.com/isurujayakantha/gafka-releases/releases/download/v1.0.0-BETA/Gafka-v1.0.0-BETA-64-Bit-Release.zip" class="btn">Gafka-v1.0.0-BETA-64-Bit-Release.zip</a> 
 
 ## Welcome to Gafka
 
