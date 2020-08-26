@@ -17,7 +17,7 @@ Gafka is a free GUI application for managing and using Apache Kafka ® clusters.
 ```markdown
 # Step 3 : Make sure kafka broker is up and running. 
 # Step 4 : Open command line and type "java -jar gafka-v1.0.0-BETA.jar".
-# Step 5 : If gafka is succesfully up and running open the web browser.
+# Step 5 : If gafka is successfully up and running open any web browser.
 # Step 6 : type "http://localhost:9000" and hit enter.
 
 ```
