@@ -17,6 +17,8 @@ Gafka is a free GUI application for managing and using Apache Kafka ® clusters.
 # Step 5 : If gafka is succesfully up and running open the web browser.
 # Step 6 : type "http://localhost:9000" and hit enter.
 
+```
+
 ### Support or Contact
  
 For any product related inquiries, comments or suggestions, contact isurujayakantha@outlook.com. 
