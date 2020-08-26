@@ -8,6 +8,7 @@ Gafka is a free GUI application for managing and using Apache Kafka ® clusters.
 ## Getting Started with Gafka
 
 ```markdown
+
 # Step 1 : Download and extract the .zip file to your PC.
 # Step 2 : Create below environment variables (change the configuration if you run kafka broker in a deferent port)
 ![step2](step-2.png)
