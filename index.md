@@ -1,3 +1,5 @@
+## Download Gafka latest beta release <a href="https://github.com/isurujayakantha/gafka-releases/releases/download/v1.0.0-BETA/Gafka-v1.0.0-BETA-64-Bit-Release.zip">here</a>
+
 ## Welcome to Gafka
 
 Gafka is a free GUI application for managing and using Apache Kafka ® clusters. It provides an intuitive UI that allows one to quickly view objects within a Kafka cluster as well as the messages stored in the topics of the cluster. It contains features geared towards both developers and administrators..
