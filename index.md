@@ -2,6 +2,10 @@
 
 Gafka is a free GUI application for managing and using Apache Kafka ® clusters. It provides an intuitive UI that allows one to quickly view objects within a Kafka cluster as well as the messages stored in the topics of the cluster. It contains features geared towards both developers and administrators..
 
+![Gafka](gafka-img-1.PNG)
+![Gafka](gafka-img-2.PNG)
+
+## Getting Started with Gafka
 
 
 ### Support or Contact
