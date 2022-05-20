@@ -19,10 +19,26 @@ Gafka is a free GUI application for managing and using Apache Kafka ® clusters.
 ![step2](step-2.png)
 
 ```markdown
+# Env variables Examples (Key::Value). 
+# gafka.bootstrap.servers::localhost:9092
+# gafka.bootstrap.servers.username::isuru
+# gafka.bootstrap.servers.password::test
+# gafka.fetch.messages.max::10000
+```
+
+```markdown
 # Step 3 : Make sure kafka broker is up and running. 
 # Step 4 : Open command line and type "java -jar gafka-v1.0.0-BETA.jar".
 # Step 5 : If gafka is successfully up and running open any web browser.
-# Step 6 : type "http://localhost:9000" and hit enter.
+# Step 6 : type "http://localhost:9000" in browser and hit enter.
+
+```
+
+```markdown
+# You can customize to run in a defferent port with below command. 
+# "java -jar gafka-v1.0.0-BETA.jar --server.port=7000".
+#If gafka is successfully up and running open any web browser.
+#type "http://localhost:7000" in browser and hit enter.
 
 ```
 
