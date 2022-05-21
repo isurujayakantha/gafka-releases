@@ -23,6 +23,8 @@ Gafka is a free GUI application for managing and using Apache Kafka ® clusters.
 # gafka.bootstrap.servers::localhost:9092
 # gafka.bootstrap.servers.username::isuru
 # gafka.bootstrap.servers.password::test
+
+Please note that below attribute is deprecated and not required
 # gafka.fetch.messages.max::10000
 ```
 
